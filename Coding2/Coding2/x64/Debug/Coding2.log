@@ -1,0 +1,3 @@
+﻿  adventure1.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\adventure1.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coding2.vcxproj -> C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe
