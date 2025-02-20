@@ -1,3 +1,4 @@
+/*
 #include <iostream>		//in out stream sends text to and from the console
 #include <string>		//allows us to use string variables. 
 #include <cstdlib>		// for rand() and srand()
@@ -53,3 +54,4 @@ int main() {
 		return 0;
 	}
 }
+*/

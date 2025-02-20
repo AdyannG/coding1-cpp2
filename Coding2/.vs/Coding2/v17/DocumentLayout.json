@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Coding2.cpp",
               "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp",
               "RelativeDocumentMoniker": "Coding2.cpp",
@@ -35,15 +39,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "adventure1.cpp",
               "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
               "RelativeDocumentMoniker": "adventure1.cpp",
               "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
               "RelativeToolTip": "adventure1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-06T17:48:17.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "loopsAndLists.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp",
+              "RelativeDocumentMoniker": "loopsAndLists.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp",
+              "RelativeToolTip": "loopsAndLists.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwGAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T15:54:20.45Z",
               "EditorCaption": ""
             }
           ]
