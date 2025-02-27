@@ -1,7 +1,2 @@
 ﻿  5FavGames.cpp
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(17,21): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(23,22): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(28,24): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(32,22): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(37,22): warning C4390: ';': empty controlled statement found; is this the intent?
   Coding2.vcxproj -> C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe
