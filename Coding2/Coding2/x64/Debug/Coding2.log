@@ -1,3 +1,7 @@
-﻿  loopsAndLists.cpp
-C:\Users\secto\GitHub\coding1-cpp2\Coding2\loopsAndLists.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+﻿  5FavGames.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(17,22): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(23,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(28,25): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(32,23): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\5FavGames.cpp(37,23): warning C4390: ';': empty controlled statement found; is this the intent?
   Coding2.vcxproj -> C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe
