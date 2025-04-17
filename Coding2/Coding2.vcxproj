@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="5FavGames.cpp" />
-    <ClCompile Include="adventure1.cpp" />
+    <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Coding2.cpp" />
-    <ClCompile Include="loopsAndLists.cpp" />
+    <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="inheritance.cpp" />
+    <ClCompile Include="recap.cpp" />
+    <ClCompile Include="Structs.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

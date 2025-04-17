@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\5FavGames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:5FavGames.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Coding2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp",
+              "RelativeDocumentMoniker": "Classes.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp",
+              "RelativeToolTip": "Classes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T01:06:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Structs.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp",
+              "RelativeDocumentMoniker": "Structs.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp",
+              "RelativeToolTip": "Structs.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T00:04:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "recap.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp",
+              "RelativeDocumentMoniker": "recap.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp",
+              "RelativeToolTip": "recap.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-06T15:36:28.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Coding2.cpp",
               "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp",
               "RelativeDocumentMoniker": "Coding2.cpp",
               "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp",
               "RelativeToolTip": "Coding2.cpp",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAAFgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:50:33.127Z",
-              "IsPinned": true
+              "WhenOpened": "2025-03-06T15:40:05.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "adventure1.cpp",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
-              "RelativeDocumentMoniker": "adventure1.cpp",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
-              "RelativeToolTip": "adventure1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp",
+              "RelativeDocumentMoniker": "Functions.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp",
+              "RelativeToolTip": "Functions.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-06T17:48:17.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "loopsAndLists.cpp",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp",
-              "RelativeDocumentMoniker": "loopsAndLists.cpp",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\loopsAndLists.cpp",
-              "RelativeToolTip": "loopsAndLists.cpp",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAAEoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-20T15:54:20.45Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "5FavGames.cpp",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\5FavGames.cpp",
-              "RelativeDocumentMoniker": "5FavGames.cpp",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\5FavGames.cpp",
-              "RelativeToolTip": "5FavGames.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T17:00:21.168Z",
+              "WhenOpened": "2025-03-27T14:44:53.51Z",
               "EditorCaption": ""
             }
           ]

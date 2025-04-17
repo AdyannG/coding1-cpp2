@@ -15,16 +15,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="adventure1.cpp">
+    <ClCompile Include="recap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Coding2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="loopsAndLists.cpp">
+    <ClCompile Include="Functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5FavGames.cpp">
+    <ClCompile Include="Structs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Classes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inheritance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
