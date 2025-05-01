@@ -1,4 +1,8 @@
-﻿  Classes.cpp
-  Structs.cpp
+﻿  filez.cpp
+  mainw14.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\mainw14.cpp(18,2): warning C4551: function call missing argument list
+  ship.cpp
   Generating Code...
-  Coding2.vcxproj -> C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe
+ship.obj : error LNK2005: "public: __cdecl ship::ship(void)" (??0ship@@QEAA@XZ) already defined in mainw14.obj
+ship.obj : error LNK2005: "public: void __cdecl ship::status(void)" (?status@ship@@QEAAXXZ) already defined in mainw14.obj
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe : fatal error LNK1169: one or more multiply defined symbols found

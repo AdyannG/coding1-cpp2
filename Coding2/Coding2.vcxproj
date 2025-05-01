@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -129,10 +129,18 @@
   <ItemGroup>
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Coding2.cpp" />
+    <ClCompile Include="filez.cpp" />
     <ClCompile Include="Functions.cpp" />
     <ClCompile Include="inheritance.cpp" />
+    <ClCompile Include="mainw14.cpp" />
     <ClCompile Include="recap.cpp" />
+    <ClCompile Include="ship.cpp" />
+    <ClCompile Include="STOLENCODE.cpp" />
     <ClCompile Include="Structs.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="filez.h" />
+    <ClInclude Include="ship.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
