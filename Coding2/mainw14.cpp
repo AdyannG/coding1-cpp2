@@ -1,4 +1,4 @@
-
+/*
 #include "ship.cpp"
 #include "ship.h"
 #include "filez.h" 
@@ -15,7 +15,7 @@ int main() {
 	WriteToFile("Nintendo is greedy, what's new?\n");
 
 
-	WriteShipToFile; 
+	WriteShipToFile()
 
 
 	return 0;

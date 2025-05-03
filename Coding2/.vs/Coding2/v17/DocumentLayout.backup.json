@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\mainw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:mainw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Getters\u0026Setters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Getters\u0026Setters.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:filez.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:adventure1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\12Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:12Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Structs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\STOLENCODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:STOLENCODE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:Coding2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:filez.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:ship.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:inheritance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\mainw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:mainw14.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|solutionrelative:recap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE7F44D2-2CCD-4113-9E63-A02E5E4FDCD6}|Coding2.vcxproj|C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,72 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ship.cpp",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.cpp",
-              "RelativeDocumentMoniker": "ship.cpp",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.cpp",
-              "RelativeToolTip": "ship.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-01T14:43:27.743Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ship.h",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.h",
-              "RelativeDocumentMoniker": "ship.h",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.h",
-              "RelativeToolTip": "ship.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-01T15:05:03.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "filez.cpp",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.cpp",
-              "RelativeDocumentMoniker": "filez.cpp",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.cpp",
-              "RelativeToolTip": "filez.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T15:30:38.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "filez.h",
-              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.h",
-              "RelativeDocumentMoniker": "filez.h",
-              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.h",
-              "RelativeToolTip": "filez.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-24T15:27:11.94Z",
+              "Title": "Functions.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp",
+              "RelativeDocumentMoniker": "Functions.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Functions.cpp",
+              "RelativeToolTip": "Functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:06:11.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Getters\u0026Setters.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Getters\u0026Setters.cpp",
+              "RelativeDocumentMoniker": "Getters\u0026Setters.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Getters\u0026Setters.cpp",
+              "RelativeToolTip": "Getters\u0026Setters.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:29:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "12Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\12Classes.cpp",
+              "RelativeDocumentMoniker": "12Classes.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\12Classes.cpp",
+              "RelativeToolTip": "12Classes.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAGwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:12:23.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adventure1.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
+              "RelativeDocumentMoniker": "adventure1.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\adventure1.cpp",
+              "RelativeToolTip": "adventure1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:08:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ship.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.cpp",
+              "RelativeDocumentMoniker": "ship.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\ship.cpp",
+              "RelativeToolTip": "ship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:07:20.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "recap.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp",
+              "RelativeDocumentMoniker": "recap.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\recap.cpp",
+              "RelativeToolTip": "recap.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:07:00.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "mainw14.cpp",
               "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\mainw14.cpp",
               "RelativeDocumentMoniker": "mainw14.cpp",
               "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\mainw14.cpp",
               "RelativeToolTip": "mainw14.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-24T14:45:47.12Z",
+              "WhenOpened": "2025-05-03T01:06:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "inheritance.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\inheritance.cpp",
+              "RelativeDocumentMoniker": "inheritance.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\inheritance.cpp",
+              "RelativeToolTip": "inheritance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:06:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "filez.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.cpp",
+              "RelativeDocumentMoniker": "filez.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\filez.cpp",
+              "RelativeToolTip": "filez.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:04:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coding2.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp",
+              "RelativeDocumentMoniker": "Coding2.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Coding2.cpp",
+              "RelativeToolTip": "Coding2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:04:41.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Classes.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp",
+              "RelativeDocumentMoniker": "Classes.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Classes.cpp",
+              "RelativeToolTip": "Classes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:04:40.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Structs.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp",
+              "RelativeDocumentMoniker": "Structs.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\Structs.cpp",
+              "RelativeToolTip": "Structs.cpp",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:07:40.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "STOLENCODE.cpp",
+              "DocumentMoniker": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\STOLENCODE.cpp",
+              "RelativeDocumentMoniker": "STOLENCODE.cpp",
+              "ToolTip": "C:\\Users\\secto\\GitHub\\coding1-cpp2\\Coding2\\STOLENCODE.cpp",
+              "RelativeToolTip": "STOLENCODE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-03T01:03:04.793Z",
               "EditorCaption": ""
             }
           ]

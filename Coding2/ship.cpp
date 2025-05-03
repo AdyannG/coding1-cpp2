@@ -1,3 +1,4 @@
+/*
 #include "ship.h"
 #include <iostream>
 
@@ -25,3 +26,4 @@ void ship::status() {
 		break;
 	}
 }
+*/

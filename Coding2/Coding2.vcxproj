@@ -127,10 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="12Classes.cpp" />
+    <ClCompile Include="adventure1.cpp" />
     <ClCompile Include="Classes.cpp" />
     <ClCompile Include="Coding2.cpp" />
     <ClCompile Include="filez.cpp" />
     <ClCompile Include="Functions.cpp" />
+    <ClCompile Include="Getters&amp;Setters.cpp" />
     <ClCompile Include="inheritance.cpp" />
     <ClCompile Include="mainw14.cpp" />
     <ClCompile Include="recap.cpp" />

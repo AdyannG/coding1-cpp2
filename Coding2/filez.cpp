@@ -1,3 +1,4 @@
+/*
 #include "filez.h"
 
 void WriteToFile(string givenString) {
@@ -56,3 +57,4 @@ void WriteShipToFile(ship givenShip) {
 	// close the file (wich svaes it to disk
 	file.close();
 }
+*/
