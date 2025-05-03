@@ -1,2 +1,423 @@
-﻿  12Classes.cpp
-  Coding2.vcxproj -> C:\Users\secto\GitHub\coding1-cpp2\Coding2\x64\Debug\Coding2.exe
+﻿  filez.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,22): error C2065: 'ship': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,1): error C2653: 'ship': is not a class or namespace name
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(10,2): error C2065: 'name': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(11,2): error C2065: 'fuel': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,2): error C2065: 'type': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,9): error C2065: 'FRIGATE': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(13,1): warning C4508: 'ship': function should return a value; 'void' return type assumed
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(15,6): error C2653: 'ship': is not a class or namespace name
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,30): error C2065: 'name': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,49): error C2065: 'fuel': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(17,35): error C2065: 'type': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2065: 'type': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2050: switch expression not integral
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2065: 'FIGHTER': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'filez.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2065: 'FRIGATE': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'filez.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2065: 'FREIGHTER': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'filez.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2065: 'CRUISER': undeclared identifier
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'filez.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2051: case expression not constant
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2051: case expression not constant
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2051: case expression not constant
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2051: case expression not constant
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(30,2): warning C4065: switch statement contains 'default' but no 'case' labels
+  (compiling source file 'filez.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6): error C2084: function 'void WriteToFile(std::string)' already has a body
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6):
+      see previous definition of 'WriteToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6): error C2084: function 'void ReadFromFile(void)' already has a body
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6):
+      see previous definition of 'ReadFromFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  mainw14.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,1): error C2653: 'ship': is not a class or namespace name
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(10,2): error C2065: 'name': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(11,2): error C2065: 'fuel': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,2): error C2065: 'type': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,9): error C2065: 'FRIGATE': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(13,1): warning C4508: 'ship': function should return a value; 'void' return type assumed
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(15,6): error C2653: 'ship': is not a class or namespace name
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,30): error C2065: 'name': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,49): error C2065: 'fuel': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(17,35): error C2065: 'type': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2065: 'type': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2050: switch expression not integral
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2065: 'FIGHTER': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2065: 'FRIGATE': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2065: 'FREIGHTER': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2065: 'CRUISER': undeclared identifier
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2131: expression did not evaluate to a constant
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2051: case expression not constant
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2051: case expression not constant
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2051: case expression not constant
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2051: case expression not constant
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(30,2): warning C4065: switch statement contains 'default' but no 'case' labels
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6): error C2084: function 'void WriteToFile(std::string)' already has a body
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6):
+      see previous definition of 'WriteToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6): error C2084: function 'void ReadFromFile(void)' already has a body
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6):
+      see previous definition of 'ReadFromFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'mainw14.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'mainw14.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\mainw14.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'Lilypad'
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\mainw14.cpp(18,2): warning C4551: function call missing argument list
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\mainw14.cpp(18,7): error C2065: 'Lilypad': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\mainw14.cpp(20,18): error C2065: 'Lilypad': undeclared identifier
+  ship.cpp
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'ship.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,22): error C2065: 'ship': undeclared identifier
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,1): error C2653: 'ship': is not a class or namespace name
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(9,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(10,2): error C2065: 'name': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(11,2): error C2065: 'fuel': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,2): error C2065: 'type': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(12,9): error C2065: 'FRIGATE': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(13,1): warning C4508: 'ship': function should return a value; 'void' return type assumed
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(15,6): error C2653: 'ship': is not a class or namespace name
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,30): error C2065: 'name': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(16,49): error C2065: 'fuel': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(17,35): error C2065: 'type': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2065: 'type': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(19,10): error C2050: switch expression not integral
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2065: 'FIGHTER': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2131: expression did not evaluate to a constant
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2065: 'FRIGATE': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2131: expression did not evaluate to a constant
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2065: 'FREIGHTER': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2131: expression did not evaluate to a constant
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2065: 'CRUISER': undeclared identifier
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2131: expression did not evaluate to a constant
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7):
+      a non-constant (sub-)expression was encountered
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(20,7): error C2051: case expression not constant
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(22,7): error C2051: case expression not constant
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(24,7): error C2051: case expression not constant
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(26,7): error C2051: case expression not constant
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\ship.cpp(30,2): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6): error C2084: function 'void WriteToFile(std::string)' already has a body
+  (compiling source file 'ship.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(7,6):
+      see previous definition of 'WriteToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6): error C2084: function 'void ReadFromFile(void)' already has a body
+  (compiling source file 'ship.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(23,6):
+      see previous definition of 'ReadFromFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'ship.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2182: 'WriteShipToFile': this use of 'void' is not valid
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,6): error C2374: 'WriteShipToFile': redefinition; multiple initialization
+  (compiling source file 'ship.cpp')
+      C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.h(11,6):
+      see declaration of 'WriteShipToFile'
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,27): error C2146: syntax error: missing ')' before identifier 'givenShip'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'ship.cpp')
+  
+C:\Users\secto\GitHub\coding1-cpp2\Coding2\filez.cpp(44,38): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'ship.cpp')
+  
+  Generating Code...

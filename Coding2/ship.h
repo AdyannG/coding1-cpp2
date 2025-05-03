@@ -1,5 +1,8 @@
 #pragma once
 
+#include "ship.cpp"
+#include "filez.h" 
+#include "filez.cpp"
 #include <string>
 using namespace std;
 

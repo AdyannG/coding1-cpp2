@@ -1,7 +1,8 @@
-/*
+
 #include "ship.cpp"
 #include "ship.h"
 #include "filez.h" 
+#include "filez.cpp"
 #include <iostream>
 #include <string>
 #include <fstream>			// File stream, fort reading from and writing to files.
@@ -10,12 +11,13 @@ using namespace std;
 int main() {
 	cout << "Let's write some new files!\n"; 
 
-	ReadFromFile();
+	//ReadFromFile();
 
-	WriteToFile("Nintendo is greedy, what's new?\n");
+	//WriteToFile("Nintendo is greedy, what's new?\n");
 
+	ship Lilypad;
 
-	WriteShipToFile()
+	WriteShipToFile(Lilypad);
 
 
 	return 0;

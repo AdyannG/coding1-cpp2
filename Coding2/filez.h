@@ -1,9 +1,11 @@
 #pragma once
-
+#include "ship.cpp"
+#include "ship.h"
+#include "filez.cpp"
 #include <iostream>
 #include <string>
 #include <fstream>
-#include "ship.h"
+
 using namespace std;
 
 void WriteToFile(string givenString); 

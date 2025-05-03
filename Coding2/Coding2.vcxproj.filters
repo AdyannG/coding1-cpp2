@@ -33,9 +33,6 @@
     <ClCompile Include="inheritance.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="STOLENCODE.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="mainw14.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>

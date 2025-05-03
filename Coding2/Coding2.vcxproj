@@ -138,7 +138,6 @@
     <ClCompile Include="mainw14.cpp" />
     <ClCompile Include="recap.cpp" />
     <ClCompile Include="ship.cpp" />
-    <ClCompile Include="STOLENCODE.cpp" />
     <ClCompile Include="Structs.cpp" />
   </ItemGroup>
   <ItemGroup>

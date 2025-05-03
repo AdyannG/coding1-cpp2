@@ -1,5 +1,8 @@
-/*
-#include "filez.h"
+
+
+#include "ship.h"
+#include "filez.h" 
+
 
 void WriteToFile(string givenString) {
 	// open (or create) the file
@@ -42,7 +45,7 @@ void WriteShipToFile(ship givenShip) {
 	cout << "Writing " << givenShip.name << " to file.\n"; 
 
 	// open (or create) the file
-	ofstream file("file.txt", ios::app);
+	ofstream file("Ship.txt", ios::app);
 
 	//earlt return if the ffile cannot be opened
 	if (!file.is_open()) {
@@ -57,4 +60,3 @@ void WriteShipToFile(ship givenShip) {
 	// close the file (wich svaes it to disk
 	file.close();
 }
-*/

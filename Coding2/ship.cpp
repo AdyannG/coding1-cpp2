@@ -1,5 +1,8 @@
-/*
+
+
 #include "ship.h"
+#include "filez.h" 
+#include "filez.cpp"
 #include <iostream>
 
 // define the constructor
@@ -11,7 +14,7 @@ ship::ship() {
 
 void ship::status() {
 	cout << "The good ship " << name << " has " << fuel << ".\n";
-	cout << "The ship's type is ";
+	cout << "The ship's type is " << type << "\n";
 
 	switch (type) {
 	case FIGHTER: cout << "fighter.\n";
@@ -26,4 +29,3 @@ void ship::status() {
 		break;
 	}
 }
-*/
